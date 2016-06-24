@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "koa": "registry:dt/koa#2.0.0+20160317120654",
+    "koa-router": "registry:dt/koa-router#7.0.0+20160314083221",
+    "node": "registry:dt/node#6.0.0+20160613154055",
+    "whatwg-fetch": "registry:dt/whatwg-fetch#0.0.0+20160524142046"
+  }
+}
